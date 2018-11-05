@@ -5,4 +5,4 @@
 [Baskerville 02](https://courtneyrobinson97.github.io/john_baskerville/baskerville2.html)
 
 # history_of_type
-[History of Type](https://courtneyrobinson97.github.io/john_baskerville/TheBriefHistoryOfType.html)
+[History of Type](https://courtneyrobinson97.github.io/john_baskerville/BriefHistoryOfType.html)
