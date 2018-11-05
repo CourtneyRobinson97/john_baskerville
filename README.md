@@ -2,4 +2,4 @@
 
 [Baskerville 01](https://courtneyrobinson97.github.io/john_baskerville/baskerville1.html)
 
-# History of Type
+# History_of_Type
