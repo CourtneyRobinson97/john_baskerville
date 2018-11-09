@@ -9,6 +9,8 @@
 [History Of Type](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType.html)
 
 
+[History Of Type](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType2.html)
+
 
 
 
