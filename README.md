@@ -6,10 +6,12 @@
 [Baskerville 02](https://courtneyrobinson97.github.io/john_baskerville/baskerville2.html)
 
 # history_of_type
+
 [History Of Type](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType.html)
 
 
-[History Of Type](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType2.html)
+[History Of Type2](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType2.html)
+
 
 
 
