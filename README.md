@@ -5,6 +5,9 @@
 
 [Baskerville 02](https://courtneyrobinson97.github.io/john_baskerville/baskerville2.html)
 
+
+[Baskerville 02](https://courtneyrobinson97.github.io/john_baskerville/baskerville3.html)
+
 # history_of_type
 
 [History Of Type](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType.html)
