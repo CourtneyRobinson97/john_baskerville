@@ -16,6 +16,7 @@
 [History Of Type2](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType2.html)
 
 
+[History Of Type3](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType3.html)
 
 
 
