@@ -8,6 +8,8 @@
 
 [Baskerville 03](https://courtneyrobinson97.github.io/john_baskerville/baskerville3.html)
 
+[Baskerville 04](https://courtneyrobinson97.github.io/john_baskerville/baskerville4.html)
+
 # history_of_type
 
 [History Of Type](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType.html)
@@ -18,5 +20,5 @@
 
 [History Of Type3](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType3.html)
 
-
+[History Of Type4](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType4.html)
 
