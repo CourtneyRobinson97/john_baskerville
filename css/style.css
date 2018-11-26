@@ -21,6 +21,7 @@ body {
 /*------ TYPOGRAPHY ------*/
 
 h1, h2, h3 {
+	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: normal;
 	color: #c06;
 	text-align: center;
@@ -28,7 +29,7 @@ h1, h2, h3 {
 
 p, li, blockquote {
 	margin-bottom: 1.5em;
-	line-height: 1.4;
+	line-height: 1.5;
 }
 
 h1 {
@@ -54,6 +55,7 @@ blockquote {
 header h2 {
 	font-style: italic;
 	font-size: 2.35em;
+	line-height: 1.5;
 	margin-top: 0.1em;
 	color: #333;
 }
