@@ -12,6 +12,8 @@
 
 [Baskerville 05](https://courtneyrobinson97.github.io/john_baskerville/baskerville5.html)
 
+[Baskerville 06](https://courtneyrobinson97.github.io/john_baskerville/baskerville6.html)
+
 # history_of_type
 
 [History Of Type](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType.html)
@@ -23,4 +25,6 @@
 [History Of Type3](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType3.html)
 
 [History Of Type4](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType4.html)
+
+[History Of Type5](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType5.html)
 
