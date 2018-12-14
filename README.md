@@ -30,3 +30,4 @@
 
 [History Of Type5](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType5.html)
 
+[History Of Type6](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType6.html)
