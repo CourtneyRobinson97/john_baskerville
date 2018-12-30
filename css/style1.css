@@ -1,0 +1,17 @@
+/*------ CSS RESET ------ */
+
+* {
+	padding: 0;
+	margin: 0;
+	font-size: 100%;
+	line-height: 1em;
+}
+
+
+/* ------ TABLE ------ */
+
+table {
+	width: 100%;
+	border: 1px;
+}
+

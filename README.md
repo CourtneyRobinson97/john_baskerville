@@ -16,6 +16,8 @@
 
 [Baskerville 07](https://courtneyrobinson97.github.io/john_baskerville/baskerville7.html)
 
+[Baskerville CSS Exercise](https://courtneyrobinson97.github.io/john_baskerville/BaskervilleCSSExercise.html)
+
 # history_of_type
 
 [History Of Type](https://courtneyrobinson97.github.io/history_of_type/BriefHistoryOfType.html)

@@ -143,6 +143,11 @@ footer {
 	color: #F18D0C;
 }
 
+table {
+	width:100%;
+	border: 1px;
+}
+
 hr {
 	margin: 1em 0 3em 0;
 	height: 1px;
