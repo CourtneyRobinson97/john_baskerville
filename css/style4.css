@@ -1,0 +1,28 @@
+/*------ CSS RESET ------ */
+
+* {
+	padding: 0;
+	margin: 0;
+	font-size: 100%;
+	line-height: 1em;
+}
+
+p, blockquote {
+	margin-bottom: 1.5em;
+	line-height: 1.5;
+}
+
+/*------ BLOCKQUOTE ------*/
+
+blockquote {
+	padding: 1em 0 2em 0;
+	font-size: 1.25em;
+	line-height: 1.3;
+	color: #d1d1d1;
+	text-align: center;
+	hanging-punctuation: first;
+}
+
+blockquote cite {
+	font-size: 0.75em;
+}

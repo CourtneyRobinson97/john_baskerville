@@ -155,6 +155,8 @@ table {
 	border-collapse: collapse;
 	border-spacing: 2px;
 	margin-bottom: 2em;
+	width: 100%;
+	border: 1px;
 }
 
 caption {
